@@ -1,2 +1,2 @@
 # MobilOpenAPS
-Hardware Projekt für ein Mobiles OpenAPS
+Hardware Projekt für ein mobiles OpenAPS
